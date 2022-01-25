@@ -1,0 +1,6 @@
+module A11yUITests {
+  umbrella header "A11yUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

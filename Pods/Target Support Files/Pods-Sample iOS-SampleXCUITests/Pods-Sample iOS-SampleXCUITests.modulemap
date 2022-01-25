@@ -1,0 +1,6 @@
+module Pods_Sample_iOS_SampleXCUITests {
+  umbrella header "Pods-Sample iOS-SampleXCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
